@@ -4,7 +4,7 @@
 
 const details = new Map();
 
-// In above code,we took details "Map" and this map is an empty  and we going to fill this with data.To fill up the map we going to pas two(2) arguements .1st arguement is the key name and other is name of the key
+// In above code,we took details "Map" and this map is an empty and we going to fill this with data.To fill up the map we going to pas two(2) arguements .1st arguement is the key name and other is name of the key,
 
 details.set("name", "Qas");
 details.set(1, "London,Dagenham");
